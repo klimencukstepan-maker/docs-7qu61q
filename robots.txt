@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-rezz3b.nuansa138.xyz/sitemap.xml
